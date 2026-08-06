@@ -10,4 +10,9 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0007-reverse-integer](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0007-reverse-integer) |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/3345-smallest-divisible-digit-product-i) |
+## Enumeration
+|  |
+| ------- |
+| [3345-smallest-divisible-digit-product-i](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/3345-smallest-divisible-digit-product-i) |
 <!---LeetCode Topics End-->
