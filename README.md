@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0006-zigzag-conversion](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0006-zigzag-conversion) |
 | [0008-string-to-integer-atoi](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0010-regular-expression-matching) |
+| [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 ## Math
 |  |
 | ------- |
@@ -32,8 +33,10 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
