@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0010-regular-expression-matching](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0010-regular-expression-matching) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 ## Recursion
 |  |
 | ------- |
@@ -31,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0049-group-anagrams) |
+| [0121-best-time-to-buy-and-sell-stock](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0217-contains-duplicate](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
