@@ -41,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
+| [1260-shift-2d-grid](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
 | ------- |
@@ -89,6 +90,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0036-valid-sudoku) |
+| [1260-shift-2d-grid](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/1260-shift-2d-grid) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
@@ -97,4 +99,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0189-rotate-array) |
+## Simulation
+|  |
+| ------- |
+| [1260-shift-2d-grid](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/1260-shift-2d-grid) |
 <!---LeetCode Topics End-->
