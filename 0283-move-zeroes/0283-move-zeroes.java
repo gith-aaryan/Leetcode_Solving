@@ -1,3 +1,9 @@
+/** TC - O(n) , SC - O(1)
+
+Logic:  Pehle sare non-zero elements ko array ke front mein order maintain karte hue shift karna, aur uske baad baki bachi hui positions ko 0 se fill kar dena..
+
+ */
+
 class Solution {
     public void moveZeroes(int[] nums) {
 
@@ -10,7 +16,6 @@ class Solution {
                 insertPosition++;
 
             }
-
 
         } 
 
