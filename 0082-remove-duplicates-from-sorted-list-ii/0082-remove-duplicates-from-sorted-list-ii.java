@@ -18,12 +18,13 @@ class Solution {
 
                 }
 
+               // Remove all duplicate nodes
                 prev.next = curr.next;
 
 
             } else {
 
-               // we have found unique node
+               // Current node is unique , we have found unique node
                 prev = prev.next;
 
             }
@@ -33,8 +34,8 @@ class Solution {
 
         }
 
+        // Return actual head, not dummy node
         return dummy.next;
-
 
         
     }
