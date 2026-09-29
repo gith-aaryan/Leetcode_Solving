@@ -48,6 +48,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0303-range-sum-query-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0560-subarray-sum-equals-k) |
 | [1260-shift-2d-grid](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
@@ -59,6 +60,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0560-subarray-sum-equals-k](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
 | ------- |
@@ -97,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0238-product-of-array-except-self](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0238-product-of-array-except-self) |
 | [0303-range-sum-query-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0304-range-sum-query-2d-immutable) |
+| [0560-subarray-sum-equals-k](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
 | ------- |
