@@ -49,6 +49,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0735-asteroid-collision](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/1260-shift-2d-grid) |
 ## Hash Table
 |  |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0735-asteroid-collision](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/1260-shift-2d-grid) |
 ## Union-Find
 |  |
@@ -144,4 +146,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0303-range-sum-query-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0303-range-sum-query-immutable) |
 | [0304-range-sum-query-2d-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0304-range-sum-query-2d-immutable) |
+## Stack
+|  |
+| ------- |
+| [0735-asteroid-collision](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0735-asteroid-collision) |
 <!---LeetCode Topics End-->
