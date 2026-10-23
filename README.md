@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0304-range-sum-query-2d-immutable) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0560-subarray-sum-equals-k](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0560-subarray-sum-equals-k) |
+| [0643-maximum-average-subarray-i](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0724-find-pivot-index) |
 | [0735-asteroid-collision](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0735-asteroid-collision) |
 | [1260-shift-2d-grid](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/1260-shift-2d-grid) |
@@ -167,4 +168,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0075-sort-colors) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
