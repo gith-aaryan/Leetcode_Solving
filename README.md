@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0010-regular-expression-matching](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
+| [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
 ## Math
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0217-contains-duplicate](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
+| [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0560-subarray-sum-equals-k](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -171,5 +173,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0643-maximum-average-subarray-i](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
