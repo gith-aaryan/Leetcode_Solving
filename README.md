@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0049-group-anagrams](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0049-group-anagrams) |
 | [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 ## Math
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 | [0347-top-k-frequent-elements](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0347-top-k-frequent-elements) |
 | [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0560-subarray-sum-equals-k](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0560-subarray-sum-equals-k) |
 ## Sorting
 |  |
@@ -174,5 +176,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
+| [0438-find-all-anagrams-in-a-string](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
 | [0643-maximum-average-subarray-i](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
