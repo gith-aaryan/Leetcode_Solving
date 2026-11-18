@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0008-string-to-integer-atoi](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0008-string-to-integer-atoi) |
 | [0010-regular-expression-matching](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0010-regular-expression-matching) |
 | [0049-group-anagrams](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0076-minimum-window-substring) |
 | [0242-valid-anagram](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0242-valid-anagram) |
 | [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0036-valid-sudoku](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0049-group-anagrams) |
+| [0076-minimum-window-substring](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0076-minimum-window-substring) |
 | [0128-longest-consecutive-sequence](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0128-longest-consecutive-sequence) |
 | [0169-majority-element](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0217-contains-duplicate) |
@@ -182,6 +184,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0076-minimum-window-substring](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0076-minimum-window-substring) |
 | [0209-minimum-size-subarray-sum](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0209-minimum-size-subarray-sum) |
 | [0424-longest-repeating-character-replacement](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0424-longest-repeating-character-replacement) |
 | [0438-find-all-anagrams-in-a-string](https://github.com/gith-aaryan/Leetcode_Solving/tree/master/0438-find-all-anagrams-in-a-string) |
